@@ -1,0 +1,137 @@
+# History of Emoji — A Sourced Timeline
+
+*Researched 25 October 2026. Every bullet carries a source link. Flags: **[Correction]** = the commonly repeated version is imprecise; **[Flag]** = could not be verified to primary-source standard, or sources disagree — see “Could not verify” at the end. Primary/authoritative sources (Unicode Consortium UTS #51, MoMA, CMU, Oxford University Press, peer-reviewed journals) are preferred; Emojipedia is used only as corroboration, as instructed.*
+
+## Summary
+
+Emoji descend from typographic faces in print (1881), ASCII joke-markers (1982) and Japanese upright *kaomoji* (1980s). The first recognisable mobile sets were Japanese: a pager heart in 1995, SoftBank/J-Phone's 90-character phone set in 1997, and — the set that popularised the form — Shigetaka Kurita's 176 NTT DoCoMo emoji of 1999, acquired by MoMA in 2016. Interoperability, not invention, is what Unicode supplied: after a 2007 Google/Apple-led proposal, the Japanese carrier union (722 characters) was mostly encoded in Unicode 6.0 (2010), with a small ARIB tranche already in Unicode 5.2 (2009). Apple took emoji global (Japan-only iPhone keyboard 2008; worldwide in iOS 5, 2011), Android added colour emoji in 2013, and from Emoji 1.0 (2015) Unicode settled into a roughly annual cadence built increasingly out of sequences — skin-tone modifiers, ZWJ professions and families, gender-inclusive forms — rather than new code points alone. The RGI (Recommended for General Interchange) total grew from 3,304 (Emoji 13.0, 2020) to **3,972 (Emoji 18.0, September 2026)**. In parallel, emoji escaped the keyboard into reaction systems (Slack 2015, Facebook Reactions and iOS Tapbacks 2016, Telegram 2021, WhatsApp and expanded Teams 2022), courts (France 2016; Canada 2023), and linguistics, where the dominant framing is emoji as *digital gesture* (Gawne & McCulloch, 2019).
+
+**Key correction to the brief:** “Unicode 6.0 (2010) first encoded emoji” is shorthand, not literally true — see Standardization, 2009.
+
+---
+
+## 1. Precursors
+
+- **1881** — *Puck* magazine (30 March 1881) prints “Typographical Art”: four faces built from punctuation expressing joy, melancholy, indifference and astonishment — a print precursor, not a digital one. — [Furman University Library](https://blogs.furman.edu/library-news/2019/01/21/the-birth-of-emoticons-1881/)
+- **1982** — On 19 September 1982 at 11:44, Carnegie Mellon computer scientist Scott Fahlman posts to the CMU bboard: “I propose that the following character sequence for joke markers: :-) Read it sideways”, with :-( for non-jokes — the founding ASCII emoticon proposal, recovered from backup tapes in 2002. — [CMU, Fahlman's own archive](https://www.cs.cmu.edu/~sef/Orig-Smiley.htm)
+- **1986** — Japanese users on ASCII NET popularise *kaomoji* — upright faces read without tilting the head, emphasising the eyes over the mouth; Yasushi Wakabayashi is credited with the original kaomoji `(^_^)` in 1986. **[Flag: credited attribution rests on secondary/Wikipedia sourcing, not a primary document located in this research.]** — [Kaomoji](https://en.wikipedia.org/wiki/Kaomoji)
+
+## 2. Japanese origins
+
+- **1988–1990 [revisionist, recent]** — Emojipedia's 2025 research identifies earlier emoji-like sets: Sharp's PA-8500 PDA (October 1988, 100+ characters) and NEC's PI-ET1 (August 1990, 130+). These predate the canonical story but were PDA, not phone, sets and had little influence on later standards. **[Flag: single-source research programme, not yet settled consensus.]** — [Emojipedia](https://blog.emojipedia.org/new-earliest-emoji-sets-from-1988-and-1990-uncovered/)
+- **1995** — NTT DoCoMo's Pocket Bell pager lets Japanese teenagers send a simple pixel heart (❤) and telephone symbol; Kurita later cited the heart's popularity — and its removal from a later business-focused model — as direct inspiration for the 1999 set. — [Emojipedia, NTT Docomo](https://emojipedia.org/docomo)
+- **1997** — On 1 November 1997 J-Phone (later SoftBank) releases the SkyWalker DP-211SW with 90 emoji — the first emoji set *on a mobile phone*, including an early 💩 Pile of Poo; the handset sold poorly and the set went no further at the time. — [Emojipedia](https://blog.emojipedia.org/new-earliest-emoji-sets-from-1988-and-1990-uncovered/)
+- **1999** — NTT DOCOMO releases the original **176 emoji** for i-mode mobile phones and pagers, designed by **Shigetaka Kurita** on a 12 × 12 pixel grid, drawing on manga, Zapf dingbats and emoticons; *e* = picture, *moji* = character. — [MoMA](https://www.moma.org/calendar/exhibitions/3639)
+- **1999–2007** — Rival carriers (DoCoMo, au/KDDI, SoftBank) ship overlapping but *incompatible* private-use sets; cross-carrier messages corrupt or drop characters — the interoperability problem Unicode later solved. Unicode UTS #51 records that Google began converting Japanese emoji to Unicode private-use codes in 2006. — [Unicode UTS #51](http://www.unicode.org/reports/tr51/index.html)
+
+## 3. Standardization
+
+- **2007** — A joint Google/Apple-track proposal (L2/09-026 lineage, working draft L2/07-257, August 2007) proposes encoding emoji in Unicode; the Unicode Technical Committee agrees in August 2007 to support emoji encoding. — [Unicode UTS #51, proposal table](http://www.unicode.org/reports/tr51/index.html)
+- **2009 — [Correction]** — The *first* Unicode characters explicitly intended as emoji are added in **Unicode 5.2**, for interoperability with Japan's ARIB TV-symbol set — one year before the date usually quoted. — [Unicode UTS #51](http://www.unicode.org/reports/tr51/index.html)
+- **2010** — **Unicode 6.0 (11 October 2010)** encodes the bulk of the carrier union: of 722 characters defined as the union of the Japanese carriers' sets (DoCoMo, au/KDDI, SoftBank private-use mappings), 114 were already in 5.2 and the remaining **608** are added in 6.0. This, not a single invention moment, is the standardisation event. — [Unicode UTS #51](http://www.unicode.org/reports/tr51/index.html)
+- **2014** — Unicode 7.0 (16 June 2014) adds a larger tranche drawn largely from Wingdings/Webdings. — [Unicode UTS #51](http://www.unicode.org/reports/tr51/index.html)
+- **2015** — **Emoji 1.0 (9 June 2015, with Unicode 8.0)** is the first release under the “Emoji Version” name. It introduces the five **skin-tone modifiers** (U+1F3FB–U+1F3FF) based on the **Fitzpatrick scale** — Fitzpatrick types I–II combined into one modifier, then III, IV, V and VI — so a base emoji plus modifier renders in six presentations including the unmodified default. — [Unicode UTS #51, version table](http://www.unicode.org/reports/tr51/index.html)
+- **2015** — **Emoji 2.0 (12 November 2015)** formalises multi-person **ZWJ family sequences** — e.g. Family: Man, Woman, Girl, Boy is 👨 + ZWJ + 👩 + ZWJ + 👧 + ZWJ + 👦 rendered as one glyph — extending the set with no new person code points. — [Emojipedia](https://emojipedia.org/family-man-woman-girl-boy)
+- **Ongoing — the proposal process** — Anyone may propose an emoji to the Unicode Consortium. The Emoji Subcommittee (now the Emoji Standard & Research Working Group) reviews proposals against published selection factors — expected frequency of use, distinctiveness, whether the idea is already representable — and recommends to the Unicode Technical Committee, which approves encoding; vendors then design and ship their own glyphs, typically months later. Unicode's own summary: a candidate must work at small size, add expressive capacity, and show evidence many people will use it. — [Unicode, About Emoji](https://home.unicode.org/emoji/about-emoji/) · [Unicode UTS #51](http://www.unicode.org/reports/tr51/index.html)
+
+### Version cadence and RGI totals (verified milestones)
+
+Dates are Unicode's own (UTS #51 version table); totals are RGI counts including skin-tone and gender variations, as reported by Emojipedia from Unicode data files — counting methods differ, so treat totals as RGI-only, not “number of pictures”.
+
+| Emoji version | Date | RGI total |
+|---|---|---|
+| (carrier union) | 2010-10-11, Unicode 6.0 | 722 characters defined |
+| Emoji 1.0 | 2015-06-09 | — |
+| Emoji 5.0 | 2017-06-20 | — |
+| Emoji 11.0 (numbering aligned to Unicode from here) | 2018-05-21 | — |
+| Emoji 13.0 | 2020-03-10 | 3,304 |
+| Emoji 13.1 | 2020-09-15 | 3,521 (= 3,304 + 217 new sequences) |
+| Emoji 14.0 | 2021-09-14 | 3,633 |
+| Emoji 15.0 | 2022-09-13 | 3,664 |
+| Emoji 15.1 | 2023-09-12 | 3,782 |
+| Emoji 16.0 | 2024-09-10 | 3,790 |
+| Emoji 17.0 | 2025-09-09 | 3,953 |
+| Emoji 18.0 | 2026-09-15 / 16 **[date discrepancy — see flags]** | 3,972 |
+
+Sources for totals: [Unicode Emoji Counts v13.0](https://unicode.org/emoji/charts-13.0/emoji-counts.html) · [Emoji 14.0](https://emojipedia.org/emoji-14.0/&) · [What's New in Unicode 15.0](https://blog.emojipedia.org/whats-new-in-unicode-15-0/) · [What's New in Unicode 15.1 & Emoji 15.1](http://blog.emojipedia.org/whats-new-in-unicode-15-1-and-emoji-15-1/?ref=applespbevent.ru) · [New Emojis in 2024–2025 (Emoji 16.0)](https://blog.emojipedia.org/new-emojis-in-2024-2025/) · [Unicode 17.0](https://emojipedia.org/unicode-17.0?ref=blog.emojipedia.org) · [Emoji 18.0](https://emojipedia.org/emoji-18.0?ref=blog.emojipedia.org)
+
+Note the shape of recent growth: Emoji 17.0 added only **7 new code points** plus 156 sequences (163 new RGI entries), and Emoji 18.0 only 9 new code points plus 10 sequences (19 new) — modern emoji growth is combinatorial, not pictorial. — [Unicode 17.0](https://emojipedia.org/unicode-17.0?ref=blog.emojipedia.org) · [Unicode 18.0](https://emojipedia.org/unicode-18.0)
+
+## 4. Mass adoption
+
+- **2008** — On 21 November 2008 Apple releases iPhone OS 2.2 with the first iPhone emoji keyboard — **Japan only**, its designs based on SoftBank's set, using SoftBank private-use code points because Unicode emoji did not yet exist. — [MacRumors / Emojipedia](https://www.macrumors.com/2018/11/21/10th-anniversary-emoji-iphone/)
+- **2011** — **iOS 5** makes the emoji keyboard officially available worldwide as a standard keyboard selectable via the Globe key; Apple switches to Unicode-compatible code points with iOS 6 (2012, 376 new emoji). This is the usual candidate for emoji's global breakout moment. — [MacRumors / Emojipedia](https://www.macrumors.com/2018/11/21/10th-anniversary-emoji-iphone/)
+- **2013** — Android catches up on colour: Android 4.3 adds a built-in emoji keyboard and **Android 4.4 KitKat** is the first Android release with a colour emoji keyboard and full colour support (monochrome support existed from 4.1). — [Emojipedia, Android Emoji Support](https://emojipedia.org/android-emoji-support)
+- **2014** — Emojipedia founder Jeremy Burge creates **World Emoji Day, 17 July** — chosen because Apple's 📅 Calendar emoji displays 17 July, itself an Easter egg for iCal's introduction at Macworld on 17 July 2002; most other vendors later changed their calendar emoji to 17 July too. — [Emojipedia](https://blog.emojipedia.org/july-17-is-world-emoji-day-everywhere-now/)
+- **2015** — Oxford Dictionaries names **😂 Face with Tears of Joy** its **Word of the Year** — the first time a pictograph was chosen. Oxford/SwiftKey data put it at 20% of all emoji used in the UK and 17% in the US in 2015, and use of the word *emoji* itself tripled year on year. — [Oxford University Press](https://corp.oup.com/feature/oxford-word-of-the-year-defining-the-past-20-years/)
+- **2016** — The Museum of Modern Art announces (26 October 2016) the acquisition of Kurita's original 176 emoji for its permanent collection; the lobby installation *Inbox: The Original Emoji, by Shigetaka Kurita* runs 9 December 2016 – 12 March 2017 — emoji formally enters a major design museum. — [MoMA](https://www.moma.org/calendar/exhibitions/3639) · [First Monday](https://firstmonday.org/ojs/index.php/fm/article/download/9401/7570?inline=1)
+- **2017** — Sony Pictures Animation's *The Emoji Movie* is released in the US on **28 July 2017** (premiere 23 July) — a mainstream Hollywood feature built entirely around emoji, and a cultural marker precisely because of its reception: it won four Golden Raspberry Awards including Worst Picture, the first animated film to win in those categories. **[Flag: worldwide gross is reported as both $217m and $218m — not quoted here.]** — [The Emoji Movie](https://en.wikipedia.org/wiki/The_Emoji_Movie)
+
+## 5. Diversification
+
+- **2015** — Skin-tone modifiers arrive (see Standardization, Emoji 1.0) — the first systematic representation mechanism, driven by the Fitzpatrick dermatological scale rather than by ethnicity labels. — [Unicode UTS #51](http://www.unicode.org/reports/tr51/index.html)
+- **2016** — **Rifle controversy:** a rifle candidate for Unicode 9.0 — part of an Olympic sports set — is stripped of emoji status after Apple tells the Consortium it will not support a rifle on its platforms, with Microsoft speaking in support; the decision is reported as unanimous. U+1F946 RIFLE and U+1F93B MODERN PENTATHLON are still *encoded as characters*, but with no emoji presentation, so they appear on no standard emoji keyboard. — [AppleInsider, reporting BuzzFeed News](https://appleinsider.com/articles/16/06/17/apple-led-effort-to-remove-rifle-emoji-from-unicode-90-report-says)
+- **2016** — **Emoji 4.0 (22 November 2016)** adds the **profession ZWJ sequences** proposed by Google (“Expanding Emoji Professions”, May 2016) and extended by Apple (artist, firefighter, pilot, astronaut, judge): Woman/Man + ZWJ + object (e.g. 👩 + ⚖️ = woman judge), plus the 🏳️‍🌈 Rainbow Flag ZWJ sequence — 628 new emoji images from **zero** new code points. — [Emojipedia](https://blog.emojipedia.org/why-there-were-two-emoji-updates-in-2016/) · [Unicode proposal L2/16-221R (Apple)](http://www.unicode.org/L2/L2016/16221r-additional-zwj-seq.pdf)
+- **2018** — **Bagel fix:** Apple's plain, filling-less bagel in the iOS 12.1 beta is mocked (“What midwestern bagel factory did this bagel come out of?” — *Grub Street*); in beta 4 (15 October 2018) Apple redraws it with realistic texture and cream cheese — the canonical example of vendor glyph design, not Unicode, being where cultural fights land. — [Emojipedia](https://blog.emojipedia.org/apple-fixes-bagel-emoji/)
+- **2019** — **Emoji 12.0 (5 March 2019)** adds an accessibility set (🦻 ear with hearing aid, 🦽/🦼 wheelchairs, 🦯 probing cane, 🦮 guide dog, prosthetic arm/leg); **Emoji 12.1 (21 October 2019)** adds **gender-inclusive “person” variants** across roles and hair styles — Unicode's own priorities document records “Gender neutral / gender inclusive emoji … Added in Emoji 12.1” as an achieved goal. — [Unicode UTS #51, version table](http://www.unicode.org/reports/tr51/index.html) · [Unicode, Priorities for Emoji Updates 2021+](http://www.unicode.org/L2/L2020/20197-emoji-priority-2021.pdf)
+- **2020** — **Emoji 13.0 (10 March 2020)** adds **🫂 People Hugging** (U+1FAC2, proposal L2/19-109 by Jennifer Daniel) — two faceless figures embracing, widely read during the pandemic year as a hug at a distance — alongside gender-neutral person variants (e.g. 🧑‍🎄 Mx Claus, person in tuxedo/veil). — [Codepoints.net, U+1FAC2](https://codepoints.net/U+1FAC2?lang=en)
+- **2021** — **Emoji 14.0** completes the pregnancy set with 🫃 Pregnant Man and 🫄 Pregnant Person as new code points, and adds mixed-skin-tone 🤝 Handshake sequences — gender inclusivity applied even where a ZWJ sequence would have been possible. — [Emoji 14.0](https://emojipedia.org/emoji-14.0/&)
+
+## 6. The reaction era
+
+Reactions invert the model: instead of a fixed Unicode set in a keyboard, a platform offers a small, curated (or, later, open) set attached to someone else's message.
+
+- **2015** — **Slack launches emoji reactions on 9 July 2015** — any of its 722 default emoji, *plus team-uploaded custom emoji*, can be attached to a message, with counts aggregated under it. Slack's custom-emoji affordance becomes a durable workplace-culture artefact: teams mint in-joke, status and approval emoji that function as a local dialect no Unicode process governs. — [PCWorld](https://www.pcworld.com/article/428491/slack-goes-way-beyond-like-with-new-emoji-reactions.html) · [Fast Company](https://www.fastcompany.com/3048384/slacks-new-emoji-based-reactions-way-way-more-than-a-like-button)
+- **2016** — **Facebook Reactions launch globally on 24 February 2016**, after testing from October 2015 in Ireland and Spain: six reactions — **Like, Love, Haha, Wow, Sad, Angry** — as an extension of the Like button. Testing cuts: **“Yay”** was in the test set and was dropped as not universally understood; **“Confused”** was shortlisted in research but, per launch reporting, was little used in tests and did not ship. **[Flag: the Yay cut is multiply corroborated; the Confused cut rests on secondary launch coverage, not a Meta primary post located in this research.]** — [SiliconANGLE](https://siliconangle.com/2016/02/24/facebook-rolls-out-emoji-reaction-option-as-an-alternative-to-liking-a-news-feed-item/) · [GeekWire](http://www.geekwire.com/2016/facebook-reactions-launch-globally-so-now-you-have-to-decide-whether-you-love-or-just-like-somthing/)
+- **2016** — **iOS 10 introduces iMessage Tapbacks** (September 2016): long-press a message to attach one of six glyphs — heart, thumbs up, thumbs down, “Ha ha”, !!, ? — Apple's fixed-set counterpart to Slack's open set. — [iJunkie, iOS 10 reactions guide, Aug 2016](https://ijunkie.com/send-reactions-ios-10-messages/)
+- **Undated — Discord** — Discord supports reactions with any standard or *server* custom emoji, the gaming-community analogue of Slack custom emoji. **[Flag: no primary Discord source for the original launch date of message reactions was found in this research — do not date this entry.]** — [Discord Wiki, Reaction](https://discord.fandom.com/wiki/Reaction)
+- **2021** — **Telegram adds message reactions on 30 December 2021** (version 8.4): double-tap for a quick reaction, animated reaction glyphs, and — distinctively — group/channel admins decide whether reactions are on and which emoji are allowed. — [XDA](https://www.xda-developers.com/telegram-8-4-message-reactions-spoilers-translations//)
+- **2022** — **WhatsApp reactions roll out from 5 May 2022**, announced by Mark Zuckerberg, starting — like Facebook in 2016 — with exactly six: 👍 ❤️ 😂 😮 😢 🙏, with “all emoji and skin tones” promised to follow. — [XDA](https://www.xda-developers.com/whatsapp-message-reactions-rolling-out/)
+- **2022** — **Microsoft Teams breaks the six-reaction ceiling:** expanded reactions let users react with **800+ emoji** instead of the previous handful (five/six, sources vary on the pre-expansion count). Announced on the Microsoft 365 roadmap in early 2022, previewed September 2022, and included in Teams' December 2022 update round — the enterprise endpoint of the arc Slack began in 2015: from curated set to the whole keyboard. — [Petri](https://petri.com/microsoft-teams-delete-chat-december-2022/) · [Microsoft Tech Community](https://techcommunity.microsoft.com/discussions/microsoftteams/microsoft-launches-expanded-reactions-for-teams/3629069)
+
+## 7. Emoji as infrastructure
+
+- **2015–present — courts and evidence.** Emoji are routinely read by courts as communicative acts, not decoration. In the 2015 US Silk Road trial the judge instructed that emoji in chat logs be shown to the jury as part of the communications. **[Secondary legal-summary sourcing.]** — [Bar and Bench](https://www.barandbench.com/view-point/legal-impact-of-emojis-interpretation-implications-courtrooms)
+- **2016** — In France, a man is convicted of criminal threats after sending a 🔫 gun emoji to his ex-girlfriend; the court treats it as a “death threat in the form of an image”. **[Flag: secondary reports differ on the custodial term — three months in some, six months (with a €1,000 fine) in others; the conviction, year and characterisation agree.]** — [Deakin Law Newsroom](https://lawnewsroom.deakin.edu.au/articles/how-the-law-responds-when-emoji-are-the-weapon-of-choice)
+- **2019** — **Linguistics settles a framing:** Gawne & McCulloch, “Emoji as Digital Gestures” (*Language@Internet* 17, 31 December 2019), argue emoji function like *gesture* alongside speech — graded from codified emblems (👍, 😉) to loosely speech-dependent illustrators — rather than as a new language or mere emotion-fillers. This remains the standard academic citation for what emoji *do* in text. — [Gawne & McCulloch 2019](https://scholarworks.iu.edu/journals/index.php/li/article/view/37786)
+- **2023** — **A 👍 can sign a contract:** in *South West Terminal Ltd. v Achter Land*, 2023 SKKB 116 (8 June 2023), Saskatchewan's Court of King's Bench holds a farmer's thumbs-up reply to a texted flax contract was a valid signature/acceptance, awarding CA$82,200 in damages — the leading business-law emoji precedent. — [Lexology](https://www.lexology.com/library/detail.aspx?g=edfc2e9d-6de2-46b0-8220-d12997e6365b)
+- **2024** — **Generational reinterpretation, measured:** Zhukova & Herring (2024) find in survey data that Gen Z (and non-binary) respondents rate emoji-containing messages as significantly more sarcastic, passive-aggressive and threatening than older respondents do, and that younger generations specifically rate the 🙂 smile and **👍 thumbs up** as more passive-aggressive — the peer-reviewed basis for the popular “👍 is passive-aggressive now” claim, which is a *perception gap*, not a changed dictionary meaning. — [Zhukova & Herring 2024](https://scholarworks.iu.edu/journals/index.php/li/article/view/40800)
+- **2025–2026** — Emoji are now maintained infrastructure: an annual Unicode release train (17.0 in September 2025; 18.0 in September 2026, RGI total **3,972**), a public proposal pipeline, and vendor font/keyboard rollouts that lag the standard by months — a new emoji is “official” long before it is typeable. — [Emoji 18.0](https://emojipedia.org/emoji-18.0?ref=blog.emojipedia.org)
+
+---
+
+## Could not verify / discrepancies flagged
+
+1. **“Unicode 6.0 first encoded emoji” — imprecise.** UTS #51 states the first characters *explicitly intended as emoji* entered in Unicode 5.2 (2009, ARIB set); 6.0 (2010) encoded the remaining 608 of the 722-character Japanese-carrier union. Dating “standardisation” to 2010 is defensible shorthand only with that caveat.
+2. **Emoji 18.0 release date — sources disagree by one day.** Unicode's UTS #51 version table lists 2026-09-15; Emojipedia's version list and Unicode 18.0 page say 16 September 2026. Both are cited above without resolving the difference (likely a timezone/publication-date artefact, unverified).
+3. **Discord reaction launch date — not verified.** No primary Discord changelog/announcement dating the introduction of message reactions was located; the entry in §6 is deliberately undated.
+4. **Kaomoji inventor/date (1986, Wakabayashi, (^_^))** — widely repeated but traced in this research only to Wikipedia and works citing it; no primary 1986 source was located.
+5. **France 2016 gun-emoji sentence** — conviction and “death threat in the form of an image” characterisation are consistent across sources; the prison term is reported as both 3 and 6 months (the 6-month figure usually paired with a €1,000 fine, one source splitting 3 months served + suspended remainder is plausible but unconfirmed here).
+6. **Facebook “Confused” reaction cut** — “Yay” being tested in Ireland/Spain and dropped is corroborated by GeekWire/Bloomberg reporting at launch; “Confused” being cut after testing rests on thinner secondary coverage.
+7. **Sharp 1988 / NEC 1990 “earliest emoji sets”** — a 2025 Emojipedia research claim, single-programme sourcing; presented as a revisionist footnote, not as replacing the 1997/1999 phone story.
+8. **1995 Pocket Bell heart** — verified via Emojipedia's DoCoMo history and NPR reporting, and via Kurita's own repeated attribution of inspiration; no NTT DoCoMo primary document was located. Treat as *well-corroborated*, not *primary-verified*.
+9. **RGI totals before Emoji 13.0** — not quoted: published totals for Emoji 1.0–12.1 use inconsistent counting conventions across sources, so the table starts where a consistent RGI series could be sourced (13.0 onward, plus the 722-character 2010 union).
+10. **World Emoji Day / iCal year** — Emojipedia's own retrospective says in one passage that Apple's calendar placeholder dates from iCal's launch “in 2003” while its quoted 2018 explainer and all other sources give iCal's Macworld introduction as 17 July **2002**; the 2002 date is used above.
+11. **Slack custom-emoji aggregate counts** (e.g. “26 million custom emoji created”) circulate in marketing/survey pages only — not used as a fact above; the cultural claim is sourced qualitatively to Slack's 2015 launch coverage instead.
+12. ***The Emoji Movie* box office** — $217m vs $218m worldwide across sources; release dates and Razzie facts agree and are the only figures used.
+
+## Sources
+
+**Primary / authoritative**
+- Unicode Consortium, UTS #51 Unicode Emoji (v18.0, 2026-08-28) — http://www.unicode.org/reports/tr51/index.html
+- Unicode Consortium, About Emoji / proposal process — https://home.unicode.org/emoji/about-emoji/
+- Unicode Consortium, Emoji Counts v13.0 — https://unicode.org/emoji/charts-13.0/emoji-counts.html
+- Unicode Consortium, Priorities for Emoji Updates 2021+ (L2/20-197) — http://www.unicode.org/L2/L2020/20197-emoji-priority-2021.pdf
+- Unicode Consortium, Additional ZWJ Sequences for Professions (L2/16-221R, Apple) — http://www.unicode.org/L2/L2016/16221r-additional-zwj-seq.pdf
+- MoMA, *Inbox: The Original Emoji, by Shigetaka Kurita* — https://www.moma.org/calendar/exhibitions/3639
+- Carnegie Mellon University, Fahlman original smiley thread — https://www.cs.cmu.edu/~sef/Orig-Smiley.htm
+- Oxford University Press, Oxford Word of the Year: defining the past 20 years — https://corp.oup.com/feature/oxford-word-of-the-year-defining-the-past-20-years/
+- Gawne & McCulloch (2019), Emoji as Digital Gestures, *Language@Internet* 17 — https://scholarworks.iu.edu/journals/index.php/li/article/view/37786
+- Zhukova & Herring (2024), Benign or Toxic?, *Language@Internet* 22 — https://scholarworks.iu.edu/journals/index.php/li/article/view/40800
+- Codepoints.net, U+1FAC2 People Hugging — https://codepoints.net/U+1FAC2?lang=en
+
+**Corroboration (Emojipedia and reputable reporting, as flagged in text)**
+- Emojipedia: DoCoMo history; earliest-sets research; Android support; World Emoji Day; bagel fix; Emoji 4.0; version totals for 14.0–18.0; family ZWJ — URLs inline above.
+- MacRumors (iPhone emoji 10th anniversary, reporting Emojipedia); AppleInsider (rifle); PCWorld and Fast Company (Slack 2015); SiliconANGLE and GeekWire (Facebook Reactions 2016); XDA (Telegram 2021, WhatsApp 2022); Petri and Microsoft Tech Community (Teams 2022); Deakin Law Newsroom and Lexology (legal cases); Furman University Library (Puck 1881); First Monday (MoMA acquisition, 2016).
+
+*Working notes with per-source extracts are in `notes/sources-origins.md`, `notes/sources-unicode.md`, and `notes/sources-adoption-reactions.md`.*
