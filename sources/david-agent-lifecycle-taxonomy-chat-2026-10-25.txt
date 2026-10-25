@@ -1,0 +1,138 @@
+Nik: you know how an agent runs (tasks), wakes, sleeps, what other 'lifeform' actions are labelled for agents?
+
+David (chatgpt): We've borrowed a surprising amount of biological vocabulary to describe AI agents. And it's becoming more literal in software architecture: agents can wake, sleep, maintain heartbeats, spawn other agents, remember, forget, recover, and terminate.
+
+The important distinction is that some of these are established technical terms, while others are emerging metaphors. None implies that an agent is biologically alive or conscious.
+
+## 1. The vocabulary of an agent's life
+
+Here's a taxonomy, including established terminology and useful emerging concepts.
+
+| Lifeform action     | What it means for an AI agent                                            | Usage                                         |
+| ------------------- | ------------------------------------------------------------------------ | --------------------------------------------- |
+| Birth / Instantiate | Create a new agent instance with identity, configuration and permissions | Established (instantiate)                     |
+| Spawn               | Launch a child agent or subprocess                                       | Established                                   |
+| Wake                | Activate in response to a message, event or schedule                     | Established                                   |
+| Heartbeat           | Periodically check conditions, health or outstanding work                | Established                                   |
+| Breathe             | Alternate between activity and inactivity                                | Metaphorical                                  |
+| Sense / Perceive    | Receive information from tools, sensors, messages or the environment     | Established                                   |
+| Observe             | Read and interpret the environment or other agents' outputs              | Established                                   |
+| Think / Reason      | Process context, infer, plan and choose actions                          | Established                                   |
+| Act                 | Execute a task, tool call or environmental change                        | Established                                   |
+| Speak / Communicate | Send messages, reports or instructions                                   | Established                                   |
+| Learn               | Update memory, strategies or models based on experience                  | Established, but mechanisms vary              |
+| Remember            | Retrieve persisted information from previous activity                    | Established                                   |
+| Forget              | Remove, suppress, expire or avoid retrieving information                 | Established                                   |
+| Dream               | Perform offline reflection, simulation or memory consolidation           | Emerging / research                           |
+| Sleep               | Stop active execution while preserving recoverable state                 | Established in some runtimes                  |
+| Hibernate           | Suspend execution and persist enough state to resume later               | Established                                   |
+| Rest / Idle         | Remain available without executing a task                                | Established (idle)                            |
+| Pause               | Interrupt execution while retaining progress                             | Established                                   |
+| Resume              | Continue from a paused or checkpointed state                             | Established                                   |
+| Heal / Recover      | Restore operation after an error or interruption                         | Established (recover)                         |
+| Adapt / Evolve      | Modify behaviour, configuration or strategy over time                    | Established in adaptive systems               |
+| Reproduce / Clone   | Create another agent using an existing configuration                     | Established (clone), metaphorical (reproduce) |
+| Collaborate         | Coordinate and divide work with other agents                             | Established                                   |
+| Delegate            | Assign work to another agent                                             | Established                                   |
+| Retire              | Permanently remove an agent from active service                          | Established lifecycle concept                 |
+| Die / Terminate     | End an agent's execution or destroy its instance                         | Established (terminate)                       |
+
+These aren't just science-fiction descriptions. Cloudflare Agents explicitly describes long-running agents as entities that wake, work and sleep; they can persist state, delegate, recover and eventually destroy themselves.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://github.com\&sz=32)
+
+GitHub
+
++1
+
+
+
+## 2. The less obvious biological parallels
+
+These are particularly interesting when designing persistent agents.
+
+| Biological concept | Agent equivalent                                                       |
+| ------------------ | ---------------------------------------------------------------------- |
+| Hunger             | Insufficient compute, context, tokens or necessary information         |
+| Feeding            | Ingesting documents, observations and new context                      |
+| Digestion          | Parsing, summarizing and integrating information                       |
+| Metabolism         | Consuming compute and resources to perform work                        |
+| Reflex             | Responding automatically to a predefined trigger                       |
+| Attention          | Prioritizing which signals or tasks to process                         |
+| Fatigue            | Degraded performance from context overload or resource constraints     |
+| Immunity           | Detecting and rejecting malicious or unauthorized instructions         |
+| Scarring           | Retaining failure history to avoid repeating mistakes                  |
+| Growth             | Acquiring capabilities, tools, skills or useful knowledge              |
+| Mutation           | Changing an agent's configuration or behaviour                         |
+| Socialization      | Discovering and establishing permitted relationships with other agents |
+| Quarantine         | Isolating an agent due to compromised trust or behaviour               |
+| Migration          | Moving an agent's execution or state between environments              |
+| Inheritance        | Passing instructions, configuration or context to child agents         |
+
+These are conceptual mappings, not universally recognized agent states.
+
+## 3. An agent's operational lifecycle
+
+Illustrative lifecycle, not a universal runtime specification. An agent can also pause, fail, recover or delegate during execution.
+
+The terminology is already taking shape across frameworks. OpenClaw uses scheduled heartbeats and event-driven wake-ups; OpenAI Agents SDK exposes start, end and handoff lifecycle hooks.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://docs.openclaw.ai\&sz=32)
+
+OpenClaw
+
++2
+
+
+
+And back in 2023, the [Generative Agents research paper](https://arxiv.org/abs/2304.03442?utm_source=chatgpt.com) demonstrated agents maintaining memories, forming reflections, planning activities and interacting socially.
+
+## 4. The distinction I'd preserve for Kin
+
+An agent, an agent session, and an executing task are three different things.
+
+An agent can have a durable identity while none of its sessions are actively executing. A task can finish without its agent retiring. An execution environment can shut down without destroying the agent's memory.
+
+This matters for Kin, FRIENDS.md and the provenance system you're building. For example:
+
+- Sleep should not revoke identity or relationships.
+- Wake should not automatically grant new authority.
+- Dream could consolidate memory, but proposed changes should remain auditable.
+- Spawn should not automatically pass all parent permissions to a child.
+- Forget should respect Eternal Sunshine's retrieval rules rather than silently destroy evidence.
+- Retire should preserve a provenance record even when the agent stops operating.
+
+The last five are design recommendations for Kin, not universal agent-framework behaviour.
+
+And there's one final biological analogy worth exploring:
+
+Homeostasis.
+
+A living organism regulates its internal conditions to remain functional. An agentic system could similarly regulate its context size, memory relevance, resource use, permissions, task load and recovery behaviour.
+
+That moves us beyond agents that merely execute tasks toward agents that maintain their own operational continuity—within human-defined boundaries.
+
+That's a meaningful distinction between automation and a persistent agent.&#x20;
+
+
+Nik: tldr: does it mention anything to represent 'emotional' cues?
+
+David: No, not explicitly. The list covered biological and operational cues, but missed emotional ones.
+
+For agents, possible emotional cues include:
+
+- Curiosity — seeking more information.
+- Frustration — repeated failures or blocked progress.
+- Confidence / Doubt — certainty or uncertainty about an answer.
+- Concern — detecting risk or potential harm.
+- Excitement — recognizing an opportunity or breakthrough.
+- Empathy — recognizing and responding to human emotional signals.
+- Attachment / Trust — maintaining relationship-specific context.
+- Satisfaction — recognizing successful task completion.
+
+In affective computing, valence (positive–negative) and arousal (calm–activated) are common dimensions for representing emotional cues.
+
+Important distinction: An agent can recognize, model, communicate and respond to emotional cues without necessarily experiencing emotions.
+
+For Kin, I'd distinguish perceived human emotion, simulated agent affect, and actual operational state. Three different things.
+
