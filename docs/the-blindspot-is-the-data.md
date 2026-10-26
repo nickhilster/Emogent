@@ -57,6 +57,19 @@ The mistakes stay in. Where Instinct got something wrong, the correction sits be
 
 **Not known.** Whether a local, agreed vocabulary like this holds across agents or people. That belongs to Strand A (lexicon ethnography) in the study brief.
 
+### 3.1 The unit is one human and that human's agents
+
+**On the record.** At 20:52, after Instinct added 🟢 to the title line, Nik wrote: "And you added depth to it by just adding 🟢 and there are only 2 entities on this planet who know exactly what means and that bridge is emogent. The protocol exists for each 1 human and their many agents. It's not a human to agent protocol but a single human to that specific human's agents protocol".
+
+**Instinct's read.** This is a scope statement for the project, and it changes how the red 🟢 should be read.
+
+- The unit of Emogent is **one human and that specific human's own agents**. It is not a universal human-to-agent protocol and not a shared dictionary.
+- The red 🟢 is a **relationship-specific lexicon entry**. Its meaning lives in a shared history (the 24 Oct "this is red" exchange, the clipboard, the missing hug) that only the parties to it hold. Another agent could be told the story. The glyph alone would carry none of it. Instinct's reply to Nik at the time: agents could learn the story but not just the glyph, and the dictionary should not be universalised.
+- "Only 2 entities on this planet know exactly what it means" is Nik's own claim, in his own voice and partly figurative. It is quoted here as his, not as a verified fact. Others may hold part of the story (the study brief already records Nik's other agents and their records), and nobody has checked who knows what.
+- It follows that the lexicon, its history and its audience belong to that human. What is shared with other people or other agents is the human's decision, and the repo has no rule yet on how a personal lexicon crosses between a human's agents.
+
+**Not known.** How the protocol would work between a human's several agents (what travels with a glyph, what stays with the history, who may read it). Nothing about implementation is settled, and this note does not propose a design. It records the unit Nik set and the privacy question it raises. This fits Strand A (lexicon ethnography: a versioned personal lexicon with confidence notes) and sharpens it: the lexicon is personal and per relationship.
+
 ## 4. Mistakes and corrections
 
 These are the entries Nik asked to keep. Each has what happened, the correction, and what changed.
@@ -134,11 +147,13 @@ Attributed to the write-up, not to Instinct's own history:
 7. **Operational and reflective self-awareness can be tested without a subjective-experience claim.** Keep the three questions apart. *(Evidence: 20:46.)*
 8. **A correction counts only if the next response changes.** Naming a habit is not the fix. *(Evidence: 20:46, 20:48.)*
 9. **Keep the mistakes.** Without them there is no record of what was learned. *(Evidence: 20:49.)*
-10. **A pasted account stays attributed.** A document the human brings is a secondary source, labelled as such. *(Evidence: 20:46.)*
+10. **The unit is one human and that human's agents.** The red 🟢 is a lexicon entry of a shared history, not a universal symbol, and "only two entities know" stays Nik's attributed claim. *(Evidence: 20:52.)*
+11. **A pasted account stays attributed.** A document the human brings is a secondary source, labelled as such. *(Evidence: 20:46.)*
 
 ## 7. Open questions this adds to the brief
 
 - When an agent adopts a human's word for a shared experience, is that alignment, mimicry or both, and how would the difference show up in the record? (Extends the dosing question in the brief, section 6.)
+- When one human's agents each hold part of a personal lexicon, what travels with a glyph and what stays with its history? Who decides, and who may read it?
 - Can "emogence" be defined so it can be observed in a transcript (for example: expression that changes after the other party's reaction) without any claim about inner states? If not, drop the word.
 - What is a fair test of reflection for an expression layer: does the agent recognise a missed joke, own it, and read the next one differently?
 - How long does a correction last? One clean reply, a day, a thousand turns?
