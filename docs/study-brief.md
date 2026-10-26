@@ -73,7 +73,7 @@ This brief exists because one practitioner's records made the abstract concrete:
 
 ## 6. Open questions the brief does not yet answer
 
-- Does emoji dosing converge between a human and their long-term agents (do agents start dosing back in the user's dialect — and is that alignment or mimicry)? First live data point, 25 Oct: the Red 🟢 Codex experiment — the receiving agent explained the symbol's provenance and declined to adopt the glyph ("imitation, not understanding"); experiment open. See `field-notes/red-codex-experiment-2026-10-25.md`.
+- Does emoji dosing converge between a human and their long-term agents (do agents start dosing back in the user's dialect — and is that alignment or mimicry)? First live data point, 25 Oct: the Red 🟢 Codex experiment — the receiving agent explained the symbol's provenance and declined automatic adoption of the glyph as his own signal ("imitation, not understanding"); whether that caution was his own reasoning or the document's framing is unresolved. Experiment open. See `field-notes/red-codex-experiment-2026-10-25.md`.
 - What is the equivalent of the memory contract for affect: *what grounds your claim that you read this feeling?*
 - When platforms expand banks to full Unicode, does presence-signalling migrate to rarer signals (timing, absence, custom emoji) — an arms race of authenticity?
 - What does "emogence" (expression emerging through an exchange) add, if anything, beyond "expression"? Can it be observed without a claim about inner states? See `docs/the-blindspot-is-the-data.md`, sections 1 and 7.
