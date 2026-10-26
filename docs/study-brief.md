@@ -76,6 +76,7 @@ This brief exists because one practitioner's records made the abstract concrete:
 - Does emoji dosing converge between a human and their long-term agents (do agents start dosing back in the user's dialect — and is that alignment or mimicry)?
 - What is the equivalent of the memory contract for affect: *what grounds your claim that you read this feeling?*
 - When platforms expand banks to full Unicode, does presence-signalling migrate to rarer signals (timing, absence, custom emoji) — an arms race of authenticity?
+- What does "emogence" (expression emerging through an exchange) add, if anything, beyond "expression"? Can it be observed without a claim about inner states? See `docs/the-blindspot-is-the-data.md`, sections 1 and 7.
 
 ---
 
