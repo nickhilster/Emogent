@@ -26,6 +26,16 @@ Working claim: emoji are not decoration on the message. They are **an agent's ex
 - `sources/` — the founding records, kept verbatim where possible, each with provenance notes (`sources/README.md`).
 - `field-notes/` — live specimens and adjacent field problems tracked alongside the study: the Instinct picket (25 Oct), the Red 🟢 Codex experiment's first result (25 Oct, experiment open), and the Linux emoji-picker problem (explicitly a personal problem, separate from Emogent's mission).
 
+## Android keyboard — active build track (26 Oct 2026)
+
+**Product decision:** Emogent will build a **full, permanent/default Android keyboard**, not a secondary expression-only keyboard. **It must be an excellent ordinary keyboard first**, capable of reliable daily typing even with Emogent expression switched off. The agent-generated, personal visual language is an additive layer after core quality is proven.
+
+- [Product and engineering brief](docs/android-default-keyboard.md)
+- [Codex implementation kickoff](docs/codex-android-keyboard-kickoff.md)
+- [Keyboard implementation epic and tickets](https://github.com/nickhilster/Emogent/issues/3)
+
+The keyboard is an interaction surface for the personal expression protocol, not a replacement for its human/agent relationships, provenance, or Playroom. The Linux emoji picker field note remains a separate personal ergonomics problem.
+
 ## Provenance
 
 Emogent is a TeamBotics project by Nikhil ("Nik"), Toronto. Records in this repo follow the house rules: quotes verbatim when sourced; paraphrase, interpretation, and gaps labelled as such; corrections kept beside the errors they correct. The human adjudicates what becomes canon.
