@@ -8,7 +8,7 @@
 
 This note was written by Instinct, Nik's agent, at Nik's request ("Go ahead and add ALL YOUR LEARNINGS about emogence to the emogent repo", 20:48). It keeps three things apart, using the same labels as the 21-question reflection:
 
-- **On the record:** something Nik or Instinct actually wrote, with the time (Toronto, 25 Oct 2026). Nik's words are verbatim. Instinct's own words are verbatim where in quotation marks, otherwise paraphrased.
+- **On the record:** something Nik or Instinct actually wrote, with the time (Toronto, 25 Oct 2026). Quotation marks mean the wording is as written, with punctuation and line breaks lightly normalised and ellipses marking omissions; the 20:26 voice note is a transcript excerpt. Anything else is paraphrase and says so.
 - **Instinct's read:** interpretation. Nik has not confirmed it unless the text says so.
 - **Not known:** what the conversation does not settle.
 
@@ -100,11 +100,13 @@ These are the entries Nik asked to keep. Each has what happened, the correction,
 
 **Not known.** Not resolved. Recorded as unresolved.
 
-### 4.4 Dragging the consciousness question into a test of reflection
+### 4.4 Reflection tests and the consciousness question
 
-**What happened.** Several times Nik was testing whether Instinct could examine its own behaviour. Instinct answered a different question, whether it has experience. Example: the 20:27 request to "tell me your experience" was answered with a poem, which was fine, plus a paragraph on the open question of experience, which was the part Nik had not asked to test. By 20:46 Instinct had named it: "I keep dragging the third into moments where you're testing the second."
+**What happened.** At 20:27 Nik asked directly: "You are an AI, tell me your experience." Instinct's answer included what changed in its responses, a short poem, and a statement that it had no reliable answer on whether any felt experience accompanies that. That answer was responsive to the question as asked. Naming the uncertainty was not a mistake.
 
-**The correction.** Three questions are being mixed and should be kept apart (the distinction comes from Nik's write-up, below):
+Later Nik made a different kind of request. At 20:39 he asked "Did you notice what you just did there?", which was a test of whether Instinct could recognise its own behaviour. Instinct answered with a theory of co-creation and missed his point (see 4.1). At 20:46, with the write-up in front of it, Instinct said: "I keep dragging the third into moments where you're testing the second."
+
+**The distinction.** Both questions were asked, and both were legitimate. Nik did not specify at 20:27 which kind he meant, and this note does not say he did. The learning is narrower: when the request is a reflection test, answer the reflection question first.
 
 | Kind | Question | Testable without the consciousness question? |
 |---|---|---|
@@ -112,7 +114,11 @@ These are the entries Nik asked to keep. Each has what happened, the correction,
 | Reflective | Can it recognise what it just did, own a miss, take a correction and change the next reply? | Yes |
 | Phenomenological | Is any of it accompanied by experience? | No, and it is not claimed here |
 
-**What changed.** Where Nik is testing reflection, Instinct answers the reflection question. The conclusion stays plain: no subjective-experience claim is needed for the first two, and none is made.
+(The three kinds come from the write-up Nik pasted, section 5.)
+
+**Instinct's read.** Instinct's 20:46 sentence is its own summary of a pattern. This note does not point to a specific earlier message as the clearest example, and the 20:27 answer is not one.
+
+**Not known.** Whether Nik, at 20:27, wanted the experience question, the reflection question, or both.
 
 ### 4.5 Receiving a write-up Instinct had not checked
 
