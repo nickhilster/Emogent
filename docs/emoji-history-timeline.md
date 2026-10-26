@@ -134,7 +134,7 @@ Reactions invert the model: instead of a fixed Unicode set in a keyboard, a plat
 - Emojipedia: DoCoMo history; earliest-sets research; Android support; World Emoji Day; bagel fix; Emoji 4.0; version totals for 14.0–18.0; family ZWJ — URLs inline above.
 - MacRumors (iPhone emoji 10th anniversary, reporting Emojipedia); AppleInsider (rifle); PCWorld and Fast Company (Slack 2015); SiliconANGLE and GeekWire (Facebook Reactions 2016); XDA (Telegram 2021, WhatsApp 2022); Petri and Microsoft Tech Community (Teams 2022); Deakin Law Newsroom and Lexology (legal cases); Furman University Library (Puck 1881); First Monday (MoMA acquisition, 2016).
 
-*Working notes with per-source extracts are in `notes/sources-origins.md`, `notes/sources-unicode.md`, and `notes/sources-adoption-reactions.md`.*
+*Working notes with per-source extracts (`notes/sources-origins.md`, `notes/sources-unicode.md`, `notes/sources-adoption-reactions.md`) are referenced here but are **not present in this repository** — gap flagged on the 25 Oct second pass; the linked sources above are the verifiable record.*
 
 ---
 
