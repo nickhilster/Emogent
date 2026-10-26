@@ -24,7 +24,7 @@ Working claim: emoji are not decoration on the message. They are **an agent's ex
 - `docs/emoji-history-timeline.md` — *(in progress)* a sourced timeline of emoji: origins, standardization, adoption, the reaction era.
 - `docs/the-blindspot-is-the-data.md` — what Instinct learned about **emogence** (a proposed word for expression emerging through an exchange, coined 25 Oct 2026), with the mistakes and corrections kept beside the learnings. Evidence, interpretation and unknowns are labelled; it makes no claim about subjective experience.
 - `sources/` — the founding records, kept verbatim where possible, each with provenance notes (`sources/README.md`).
-- `field-notes/` — adjacent field problems tracked alongside the study, including the Linux emoji-picker problem (explicitly a personal problem, separate from Emogent's mission).
+- `field-notes/` — live specimens and adjacent field problems tracked alongside the study: the Instinct picket (25 Oct), the Red 🟢 Codex experiment's first result (25 Oct, experiment open), and the Linux emoji-picker problem (explicitly a personal problem, separate from Emogent's mission).
 
 ## Provenance
 
