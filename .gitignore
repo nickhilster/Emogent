@@ -1,0 +1,5 @@
+# Local Android/Gradle state and machine-specific SDK paths
+.gradle/
+**/.gradle/
+local.properties
+**/build/
