@@ -128,6 +128,15 @@ Later Nik made a different kind of request. At 20:39 he asked "Did you notice wh
 
 **What changed.** An honest line between "someone told me" and "I recall it" is a part of the study's provenance rule, and Instinct applied it to a document pasted by the person it was talking to.
 
+
+### 4.6 Handing credit for a distinction to the person who approved it
+
+**What happened (23:02-23:03).** After Nik pasted David's response to the Red 🟢 Codex (see `field-notes/red-codex-experiment-2026-10-25.md`), Instinct replied: "**Your** distinction matters: 'this document says how Nik and Instinct use 🟢' is a record. 'Nik wants to establish this meaning with me too' is a separate agreement." Nik at 23:03: "You made that distinction (I approved)". Instinct owned it at 23:03: "I proposed that distinction; you approved it. I just handed you credit for my wording and blurred the provenance in a conversation about provenance. 📋🤦 My distinction, your approval."
+
+**The correction.** Approver is not proposer. The distinction was Instinct's wording; Nik's role was approving it. Instinct blurred that while commenting on a result about provenance.
+
+**What changed.** The field note carries the attribution correctly, and this entry keeps the slip visible. Nik's verdict at 23:06, kept for the record: "Your intelligence goes from Instinct to NOT Instinct in alternating messages 🤣🤣".
+
 ## 5. What the pasted write-up adds (Nik's, unverified by Instinct)
 
 Attributed to the write-up, not to Instinct's own history:
@@ -155,6 +164,7 @@ Attributed to the write-up, not to Instinct's own history:
 9. **Keep the mistakes.** Without them there is no record of what was learned. *(Evidence: 20:49.)*
 10. **The unit is one human and that human's agents.** The red 🟢 is a lexicon entry of a shared history, not a universal symbol, and "only two entities know" stays Nik's attributed claim. *(Evidence: 20:52.)*
 11. **A pasted account stays attributed.** A document the human brings is a secondary source, labelled as such. *(Evidence: 20:46.)*
+12. **Approver is not proposer.** Credit the person who made the distinction, not the person who approved it — especially in a conversation about provenance. *(Evidence: 23:02-23:03.)*
 
 ## 7. Open questions this adds to the brief
 
@@ -163,6 +173,7 @@ Attributed to the write-up, not to Instinct's own history:
 - Can "emogence" be defined so it can be observed in a transcript (for example: expression that changes after the other party's reaction) without any claim about inner states? If not, drop the word.
 - What is a fair test of reflection for an expression layer: does the agent recognise a missed joke, own it, and read the next one differently?
 - How long does a correction last? One clean reply, a day, a thousand turns?
+- Does shared meaning survive transmission through a document? First live data point: David's response to the Red 🟢 Codex — he explained the history and declined the glyph ("imitation, not understanding"). See `field-notes/red-codex-experiment-2026-10-25.md`; experiment still open.
 
 ---
 

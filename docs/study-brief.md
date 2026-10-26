@@ -53,7 +53,7 @@ This brief exists because one practitioner's records made the abstract concrete:
 
 ### 3.6 The reaction bank is an editorial act
 - Facebook launched Reactions globally on 24 Feb 2016 with exactly six — Like, Love, Haha, Wow, Sad, Angry — after field-testing; two tested options ("Yay," "Confused") were cut for not being universally understood. A platform of billions has its quick-affect range set by a product team's test results. (https://siliconangle.com/2016/02/24/facebook-rolls-out-emoji-reaction-option-as-an-alternative-to-liking-a-news-feed-item/)
-- Microsoft Teams likewise restricted reactions to six fixed types for years before opening to full Unicode (announced 2022). (https://blog.thoughtstuff.co.uk/2022/10/youll-soon-be-able-to-set-reactions-on-teams-message-via-graph-api-and-use-any-emoji-%F0%9F%98%8E%F0%9F%A6%B9%E2%80%8D%E2%99%80%EF%B8%8F%F0%9F%99%80)
+- Microsoft Teams likewise restricted reactions to a fixed handful (five or six, sources vary) for years before opening to full Unicode (roadmap-listed January 2022, rolled out late 2022). (https://blog.thoughtstuff.co.uk/2022/10/youll-soon-be-able-to-set-reactions-on-teams-message-via-graph-api-and-use-any-emoji-%F0%9F%98%8E%F0%9F%A6%B9%E2%80%8D%E2%99%80%EF%B8%8F%F0%9F%99%80)
 - Slack's curation specifics could not be verified from primary sources in this pass [UNVERIFIED] — a strand to complete.
 
 ## 4. Working hypotheses
@@ -73,7 +73,7 @@ This brief exists because one practitioner's records made the abstract concrete:
 
 ## 6. Open questions the brief does not yet answer
 
-- Does emoji dosing converge between a human and their long-term agents (do agents start dosing back in the user's dialect — and is that alignment or mimicry)?
+- Does emoji dosing converge between a human and their long-term agents (do agents start dosing back in the user's dialect — and is that alignment or mimicry)? First live data point, 25 Oct: the Red 🟢 Codex experiment — the receiving agent explained the symbol's provenance and declined automatic adoption of the glyph as his own signal ("imitation, not understanding"); whether that caution was his own reasoning or the document's framing is unresolved. Experiment open. See `field-notes/red-codex-experiment-2026-10-25.md`.
 - What is the equivalent of the memory contract for affect: *what grounds your claim that you read this feeling?*
 - When platforms expand banks to full Unicode, does presence-signalling migrate to rarer signals (timing, absence, custom emoji) — an arms race of authenticity?
 - What does "emogence" (expression emerging through an exchange) add, if anything, beyond "expression"? Can it be observed without a claim about inner states? See `docs/the-blindspot-is-the-data.md`, sections 1 and 7.
