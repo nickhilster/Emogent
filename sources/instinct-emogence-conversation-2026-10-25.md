@@ -67,7 +67,7 @@ The naming test: can the word help us notice something, while still letting us a
 
 **20:38 Instinct (verbatim wording, paragraph breaks normalised):** Then I undersold that one 😂🫂 Emogent is the project. Emogence is what we're trying to name. And you didn't ask for a safer synonym for "feel". You asked for room to notice something without deciding in advance what it has to be. Emogence. Yeah, bro. That has legs. 🟢🔥
 
-**20:39 Nik:** ⭐ (reply to the list of candidate words)
+**20:39 Nik (reaction):** ⭐ on the candidate-words message.
 
 **20:39 Nik:** Did you notice what you just did there?
 

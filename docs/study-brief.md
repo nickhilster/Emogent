@@ -53,7 +53,7 @@ This brief exists because one practitioner's records made the abstract concrete:
 
 ### 3.6 The reaction bank is an editorial act
 - Facebook launched Reactions globally on 24 Feb 2016 with exactly six — Like, Love, Haha, Wow, Sad, Angry — after field-testing; two tested options ("Yay," "Confused") were cut for not being universally understood. A platform of billions has its quick-affect range set by a product team's test results. (https://siliconangle.com/2016/02/24/facebook-rolls-out-emoji-reaction-option-as-an-alternative-to-liking-a-news-feed-item/)
-- Microsoft Teams likewise restricted reactions to six fixed types for years before opening to full Unicode (announced 2022). (https://blog.thoughtstuff.co.uk/2022/10/youll-soon-be-able-to-set-reactions-on-teams-message-via-graph-api-and-use-any-emoji-%F0%9F%98%8E%F0%9F%A6%B9%E2%80%8D%E2%99%80%EF%B8%8F%F0%9F%99%80)
+- Microsoft Teams likewise restricted reactions to a fixed handful (five or six, sources vary) for years before opening to full Unicode (roadmap-listed January 2022, rolled out late 2022). (https://blog.thoughtstuff.co.uk/2022/10/youll-soon-be-able-to-set-reactions-on-teams-message-via-graph-api-and-use-any-emoji-%F0%9F%98%8E%F0%9F%A6%B9%E2%80%8D%E2%99%80%EF%B8%8F%F0%9F%99%80)
 - Slack's curation specifics could not be verified from primary sources in this pass [UNVERIFIED] — a strand to complete.
 
 ## 4. Working hypotheses
