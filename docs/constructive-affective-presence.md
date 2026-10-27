@@ -2,7 +2,7 @@
 
 **Status:** Research/product proposal; not implemented or proven.  
 **Origin:** Nik + David, 2026-10-27 (Toronto).  
-**Integration:** [Kin constructive judgment and human-only instruction boundary](https://github.com/nickhilster/kin-ubuntu/blob/main/ideas/2026-10-27-constructive-judgment-and-instruction-boundary.md).
+**Integration:** Kin OS's companion constructive-judgment and instruction-governance proposal is maintained in the private Kin repository; this public note documents only the Emogent-facing interface and behaviour..
 
 ## Observation versus hypothesis
 
